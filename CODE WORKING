@@ -1,0 +1,8 @@
+How the Code Works?
+The game is divided into rounds, with a maximum of MAX_ROUNDS rounds.
+In each round, a random number is generated between MIN_NUMBER and MAX_NUMBER.
+The user is prompted to guess the number, and their guess is compared to the generated number.
+If the guess is too low or too high, the user is given feedback and allowed to try again.
+If the user guesses the number correctly, they score a point and the round ends.
+If the user uses up all their attempts without guessing the number, the round ends and the next round begins.
+After all rounds have been played, the user's final score is displayed.
