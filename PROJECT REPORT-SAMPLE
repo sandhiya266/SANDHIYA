@@ -1,0 +1,54 @@
+Project Report: Number Guessing Game in Java
+
+Project Overview
+The Number Guessing Game is a simple console-based game written in Java. The game generates a random number between 1 and 100, and the user has to guess the number within a specified number of attempts. The game is divided into rounds, and the user's score is based on the number of rounds won.
+
+Project Objectives
+The objectives of this project were:
+
+To create a simple console-based game in Java.
+To implement a number guessing game with a limited number of attempts.
+To add the option for multiple rounds and display the user's score.
+To provide feedback to the user on their guesses.
+Project Design and Implementation
+The game is designed using a simple and intuitive approach. The game is divided into rounds, and each round consists of the following steps:
+
+Generate a random number between 1 and 100.
+Prompt the user to guess the number.
+Compare the user's guess with the generated number and provide feedback.
+Repeat steps 2 and 3 until the user guesses the correct number or uses up all their attempts.
+The game is implemented using Java, and the code is organized into two main methods: main and playRound. The main method controls the game flow, and the playRound method implements the game logic for each round.
+
+Project Features
+The game has the following features:
+
+Random Number Generation: The game generates a random number between 1 and 100 for each round.
+Limited Attempts: The user has a limited number of attempts to guess the correct number.
+Multiple Rounds: The game allows the user to play multiple rounds, and the user's score is displayed at the end of each round.
+Feedback: The game provides feedback to the user on their guesses, indicating whether the guess is too high or too low.
+Project Testing and Debugging
+The game was tested thoroughly to ensure that it works as expected. The testing process involved:
+
+Unit Testing: Each method was tested individually to ensure that it works correctly.
+Integration Testing: The game was tested as a whole to ensure that all the methods work together correctly.
+Debugging: Any errors or bugs found during testing were fixed and re-tested.
+Project Conclusion
+The Number Guessing Game in Java is a simple and fun console-based game that meets all the project objectives. The game is well-designed, implemented, and tested, and it provides a good user experience. The game can be further improved by adding more features, such as different difficulty levels or a graphical user interface.
+
+Recommendations for Future Improvements
+Add Different Difficulty Levels: The game can be improved by adding different difficulty levels, such as easy, medium, and hard.
+Implement a Graphical User Interface: The game can be improved by implementing a graphical user interface, such as a GUI or a web-based interface.
+Add More Features: The game can be improved by adding more features, such as a high score table or a multiplayer option.
+Project Timeline
+The project was completed within the following timeline:
+
+Project Planning: 1 day
+Project Design and Implementation: 3 days
+Project Testing and Debugging: 2 days
+Project Report Writing: 1 day
+Project Resources
+The project used the following resources:
+
+Java Development Kit (JDK): The project used JDK 8 for development and testing.
+Eclipse Integrated Development Environment (IDE): The project used Eclipse IDE for development and testing.
+Windows 10 Operating System: The project was developed and tested on a Windows 10 operating system.
